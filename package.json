@@ -1,0 +1,23 @@
+{
+  "name": "src721",
+  "version": "0.0.1",
+  "description": "SRC721 Token Template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SBit-Project/Sbit-SRC721-Token"
+  },
+  "keywords": [
+    "SRC721",
+    "Sbit",
+    "solidity",
+    "contract"
+  ],
+  "author": "Sbit Dev Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SBit-Project/Sbit-SRC721-Token/issues"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.3"
+  }
+}

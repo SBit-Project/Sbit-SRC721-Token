@@ -2,7 +2,7 @@
 SRC721 Token Template
 
 # Introduction
-This project is an implementation of NFT (non-funhible token) based on [ERC721](https://eips.ethereum.org/EIPS/eip-721) and [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity). You can use it to issue your own NFTs and build corresponding DApps on **Sbit**.
+This project is an implementation of NFT (non-fungible token) based on [ERC721](https://eips.ethereum.org/EIPS/eip-721) and [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity). You can use it to issue your own NFTs and build corresponding DApps on **Sbit**.
 
 You can refer to [this article]() for a detailed description of NFT and ERC721.
 
